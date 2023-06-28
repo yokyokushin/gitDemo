@@ -21,5 +21,6 @@ hello hahahahh ! hello hahhaha !
 hello hahahahh ! hello hahhaha ! 
 hello hahahahh ! hello hahhaha ! 
 hello hahahahh ! hello hahhaha ! 
+<<<<<<< HEAD
 hello hahahahh ! hello hahhaha !  master test
-hello hahahahh ! hello hahhaha ! 
+hello hahahahh ! hello hahhaha ! hot-fix test
